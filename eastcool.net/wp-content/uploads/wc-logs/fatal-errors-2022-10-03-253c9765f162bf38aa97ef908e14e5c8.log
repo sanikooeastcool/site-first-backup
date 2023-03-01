@@ -1,0 +1,54 @@
+2022-10-03T03:12:07+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php:207
+Stack trace:
+#0 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3509): wc_get_template('single-product/...', Array)
+#2 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(307): wc_display_product_attributes(Object(WC_Product_Simple))
+#3 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/eastcoo2/public_html/eastcool.net/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/eastcoo2/public_html/eastcool.net/wp-content/themes/websima/woocommerce/single-product/tabs/additional-information.php(24): do_action('woocommerce_pro...', Obj در /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php در خط 207
+
+2022-10-03T04:53:59+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php:207
+Stack trace:
+#0 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3509): wc_get_template('single-product/...', Array)
+#2 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(307): wc_display_product_attributes(Object(WC_Product_Simple))
+#3 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/eastcoo2/public_html/eastcool.net/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/eastcoo2/public_html/eastcool.net/wp-content/themes/websima/woocommerce/single-product/tabs/additional-information.php(24): do_action('woocommerce_pro...', Obj در /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php در خط 207
+
+2022-10-03T09:11:26+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php:207
+Stack trace:
+#0 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3509): wc_get_template('single-product/...', Array)
+#2 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(307): wc_display_product_attributes(Object(WC_Product_Simple))
+#3 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/eastcoo2/public_html/eastcool.net/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/eastcoo2/public_html/eastcool.net/wp-content/themes/websima/woocommerce/single-product/tabs/additional-information.php(24): do_action('woocommerce_pro...', Obj در /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php در خط 207
+
+2022-10-03T10:53:49+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php:207
+Stack trace:
+#0 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3509): wc_get_template('single-product/...', Array)
+#2 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(307): wc_display_product_attributes(Object(WC_Product_Simple))
+#3 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/eastcoo2/public_html/eastcool.net/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/eastcoo2/public_html/eastcool.net/wp-content/themes/websima/woocommerce/single-product/tabs/additional-information.php(24): do_action('woocommerce_pro...', Obj در /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php در خط 207
+
+2022-10-03T12:34:49+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php:207
+Stack trace:
+#0 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3509): wc_get_template('single-product/...', Array)
+#2 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(307): wc_display_product_attributes(Object(WC_Product_Simple))
+#3 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/eastcoo2/public_html/eastcool.net/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/eastcoo2/public_html/eastcool.net/wp-content/themes/websima/woocommerce/single-product/tabs/additional-information.php(24): do_action('woocommerce_pro...', Obj در /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php در خط 207
+
+2022-10-03T22:55:43+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php:207
+Stack trace:
+#0 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3509): wc_get_template('single-product/...', Array)
+#2 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(307): wc_display_product_attributes(Object(WC_Product_Simple))
+#3 /home/eastcoo2/public_html/eastcool.net/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/eastcoo2/public_html/eastcool.net/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/eastcoo2/public_html/eastcool.net/wp-content/themes/websima/woocommerce/single-product/tabs/additional-information.php(24): do_action('woocommerce_pro...', Obj در /home/eastcoo2/public_html/eastcool.net/wp-content/plugins/woocommerce-group-attributes/public/partials/woocommerce-group-attributes-output-layout-1.php در خط 207
+

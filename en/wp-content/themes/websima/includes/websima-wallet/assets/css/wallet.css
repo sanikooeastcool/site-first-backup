@@ -1,0 +1,106 @@
+.wrap-wallet {
+    display: flex;
+    align-items: center;
+    padding: 8px 10px;
+    box-shadow: 1px 3px 8px #0000001c;
+    border-radius: 3px;
+    justify-content: space-between;
+    font-weight: bold;
+    border: 1px solid #efefef;
+    margin-bottom: 20px;
+}
+.wrap-wallet li {
+    padding: 5px 15px;
+    margin: 10px 0 !important;
+}
+.wrap-wallet .value {
+    display: inline-block;
+    margin-right: 10px;
+}
+.wrap-wallet .remaining {
+    background: var(--color1);
+    border-radius: 3px;
+    color: #fff;
+}
+#user-points{
+    border-radius: 3px !important;
+    overflow: hidden;
+	width:100%;
+}
+#user-points thead {
+    background: var(--color1);
+    color: #fff;
+    border-radius: 3px 3px 0 0;
+}
+#user-points tbody {
+    border: 1px solid #efefef;
+}
+#user-points td {
+    padding: 10px 20px;
+    text-align: right;
+}
+#user-points th {
+    padding: 10px 20px;
+    font-weight: bold;
+    text-align: right;
+}
+
+@media (max-width: 576px) {
+#user-points-wrapper {
+    overflow-x: auto;
+}
+.wrap-wallet .title,	
+.wrap-wallet .value {
+    text-align: center;
+    display: block;
+}
+}
+/* checkout style */
+.checkout-points-form{
+    position: relative;
+    padding: 8px 10px;
+    box-shadow: 1px 3px 8px #0000001c;
+    border-radius: 3px;
+    align-items: center;
+    background:#f9f9f9;
+    border: 1px solid #eee;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.checkout-points-form .wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.checkout-points-form .wrapper span{
+    margin: 5px 0;
+}
+.checkout-points-form .use-credit {
+    cursor: pointer;
+    transition:all .3s;
+    background: var(--color1);
+    color: #fff;
+    padding: 10px 15px 8px;
+    border-radius: 8px;
+}
+.checkout-points-form .use-credit:hover{
+	background:green
+}
+.checkout-points-form .alert {
+    background-color: transparent!important;
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    position: absolute;
+    bottom: -3px;
+}
+.checkout-points-form .alert.bg-primary {
+    color: #007bff
+}
+.checkout-points-form .alert.bg-danger {
+    color: #dc3545
+}
+.checkout-points-form .alert.bg-success {
+    color: #28a745
+}

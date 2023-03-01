@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Group Attributes\n"
+"POT-Creation-Date: 2020-08-16 16:23+0430\n"
+"PO-Revision-Date: 2020-11-30 09:29+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-group-attributes.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:58
+#: admin/class-woocommerce-group-attributes-post-type.php:69
+#: admin/class-woocommerce-group-attributes-post-type.php:388
+msgid "Attribute Groups"
+msgstr "گروه‌های ویژگی"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:59
+msgid "Attribute Group"
+msgstr "گروه ویژگی"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:60
+msgctxt "woocommerce-group-attributes"
+msgid "Add New Attribute Group"
+msgstr "افزودن گروه ویژگی جدید"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:61
+msgid "Add New Attribute Group"
+msgstr "افزودن گروه ویژگی جدید"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:62
+msgid "Edit Attribute Group"
+msgstr "ویرایش گروه ویژگی"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:63
+msgid "New Attribute Group"
+msgstr "افزودن گروه ویژگی"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:64
+msgid "View Attribute Group"
+msgstr "نمایش گروه ویژگی"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:65
+msgid "Search Attribute Groups"
+msgstr "جستجوی گروه ویژگی"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:66
+msgid "No Attribute Groups found"
+msgstr "گروه‌های ویژگی یافت نشد"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:67
+msgid "No Attribute Groups found in Trash"
+msgstr "گروه‌های ویژگی در زباله‌دان یافت نشد"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:68
+msgid "Parent Attribute Group:"
+msgstr "گروه ویژگی والد:"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:95
+msgid "Attribute Group Category"
+msgstr "دسته‌بندی گروه ویژگی"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:96
+#: admin/class-woocommerce-group-attributes-post-type.php:433
+#: admin/class-woocommerce-group-attributes-post-type.php:434
+msgid "Attribute Group Categories"
+msgstr "دسته‌بندی‌های گروه ویژ‌گی"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:101
+#, php-format
+msgid "Search %s"
+msgstr "جستجو %s"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:102
+#, php-format
+msgid "All %s"
+msgstr "همه %s"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:103
+#, php-format
+msgid "Parent %s"
+msgstr "والد %s"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:104
+#, php-format
+msgid "Parent %s:"
+msgstr "والد %s:"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:105
+#, php-format
+msgid "Edit %s"
+msgstr "ویرایش %s"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:106
+#, php-format
+msgid "Update %s"
+msgstr "بروزرسانی %s"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:107
+#, php-format
+msgid "Add New %s"
+msgstr "افزودن  %s"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:108
+#, php-format
+msgid "New %s Name"
+msgstr "نام %s جدید"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:135
+msgid "Attributes"
+msgstr "ویژگی‌ها"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:352
+#: admin/class-woocommerce-group-attributes-post-type.php:386
+msgid "Load"
+msgstr "بارگذاری"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:354
+msgid "Attribute Groups Categories"
+msgstr "دسته‌بندی‌های گروه‌های ویژگی"
+
+#: admin/class-woocommerce-group-attributes-post-type.php:396
+msgid "Are you sure you want to navigate away."
+msgstr "آیا مطمئن هستید که می خواهید از اینجا خارج شوید."
+
+#: admin/class-woocommerce-group-attributes-post-type.php:396
+msgid "Manage Attribute Groups"
+msgstr "مدیریت گروه‌‌های ویژگی"
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr "اطلاعات"
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr "<p>به پشتیبانی نیاز دارید؟ با ثبت تیکت در ژاکت با ما در ارتباط باشید.</p>"
+
+#: admin/options-init.php:113
+msgid "Group Attributes"
+msgstr "گروه ویژگی‌ها"
+
+#: admin/options-init.php:115
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "به پشتیبانی نیاز دارید؟ با ثبت تیکت در ژاکت با ما در ارتباط باشید."
+
+#: admin/options-init.php:120
+msgid "General"
+msgstr "عمومی"
+
+#: admin/options-init.php:128
+msgid "Enable"
+msgstr "فعال"
+
+#: admin/options-init.php:129
+msgid "Enable group attributes."
+msgstr "فعال‌سازی گروه ویژگی‌ها"
+
+#: admin/options-init.php:134
+msgid "Enable Attribute Group Categories"
+msgstr "فعال‌سازی دسته‌بندی‌های گروه ویژگی"
+
+#: admin/options-init.php:135
+msgid "Attribute group categories can contain multiple attribute groups. These categories can be loaded in the backend when you edit a product. To create categories, simply edit a attribute group and you will see categories in the right sidebar."
+msgstr "دسته‌های گروه ویژگی‌ها می‌توانند شامل چندین گروه ویژگی باشند. این دسته‌بندی ها هنگام ویرایش یک محصول در پس‌زمینه بارگیری می‌شود. برای ایجاد دسته‌بندی‌ها ، به سادگی یک گروه ویژگی را ویرایش کنید. دسته‌ها را در نوار کناری سمت چپ مشاهده خواهید کرد."
+
+#: admin/options-init.php:141
+msgid "Multiple Attributes"
+msgstr "چندین ویژگی"
+
+#: admin/options-init.php:142
+msgid "Allow Attributes to be in multiple attribute groups. <br/>E.g. the color attribute can be in more than 1 attribute group!"
+msgstr "اجازه دهید صفات در چندین گروه ویژگی قرار گیرند. <br/> به عنوان مثال. ویژگی رنگ می‌تواند در بیش از ۱ گروه ویژگی باشد!"
+
+#: admin/options-init.php:148
+msgid "Show Weight"
+msgstr "نمایش وزن"
+
+#: admin/options-init.php:154
+msgid "Show Dimensions"
+msgstr "نمایش ابعاد"
+
+#: admin/options-init.php:160
+msgid "More Text"
+msgstr "متن بیشتر (More)"
+
+#: admin/options-init.php:161
+msgid "Text for more attribute group."
+msgstr "متن جایگزین برای گروه ویژگی بیشتر. (More)"
+
+#: admin/options-init.php:162
+msgid "More"
+msgstr "بیشتر"
+
+#: admin/options-init.php:168
+msgid "Styling"
+msgstr "طراحی ظاهر"
+
+#: admin/options-init.php:176
+msgid "Select Layout"
+msgstr "انتخاب قالب"
+
+#: admin/options-init.php:196
+msgid "Columns"
+msgstr "ستون‌ها"
+
+#: admin/options-init.php:197
+msgid "Columns of attribute groups for layout 4."
+msgstr "ستون‌های گروه‌های ویژگی برای طرح ۴"
+
+#: admin/options-init.php:199
+msgid "Attribute Value Divider"
+msgstr "مقدار جدا کننده ویژگی"
+
+#: admin/options-init.php:201
+msgid "Comma"
+msgstr "کاما"
+
+#: admin/options-init.php:202
+msgid "New Line"
+msgstr "خط جدید"
+
+#: admin/options-init.php:203
+msgid "Pipe"
+msgstr "لوله (Pipe)"
+
+#: admin/options-init.php:210
+msgid "Odd Background Color"
+msgstr "رنگ پس‌زمینه فرد"
+
+#: admin/options-init.php:217
+msgid "Odd Text Color"
+msgstr "رنگ نوشته فرد"
+
+#: admin/options-init.php:224
+msgid "Even Background color"
+msgstr "رنگ پس‌زمینه زوج"
+
+#: admin/options-init.php:231
+msgid "Even Text color"
+msgstr "رنگ نوشته زوج"
+
+#: admin/options-init.php:239
+msgid "Advanced settings"
+msgstr "تنظیمات پیشرفته"
+
+#: admin/options-init.php:240
+msgid "Custom stylesheet / javascript."
+msgstr "جاوا اسکریپت و استایل‌شیت سفارشی."
+
+#: admin/options-init.php:248
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+#: admin/options-init.php:249
+msgid "Add some stylesheet if you want."
+msgstr "اگر می‌خواهید استایل‌شیت اضافه کنید."
+
+#: admin/options-init.php:255
+msgid "Custom JS"
+msgstr "جاوای سفارشی"
+
+#: admin/options-init.php:256
+msgid "Add some javascript if you want."
+msgstr "اگر می‌خواهید جاوا اسکریپت اضافه کنید."
+
+#: public/class-woocommerce-group-attributes-public.php:180
+msgid "No product found or specified!"
+msgstr "هیچ محصولی یافت یا مشخص نشده است!"
+
+#: public/partials/woocommerce-group-attributes-output-layout-1.php:123
+#: public/partials/woocommerce-group-attributes-output-layout-2.php:123
+#: public/partials/woocommerce-group-attributes-output-layout-3.php:122
+#: public/partials/woocommerce-group-attributes-output-layout-4.php:122
+msgid "Weight"
+msgstr "وزن"
+
+#: public/partials/woocommerce-group-attributes-output-layout-1.php:132
+#: public/partials/woocommerce-group-attributes-output-layout-2.php:132
+#: public/partials/woocommerce-group-attributes-output-layout-3.php:131
+#: public/partials/woocommerce-group-attributes-output-layout-4.php:131
+msgid "Dimensions"
+msgstr "ابعاد"
+
+#: woocommerce-group-attributes.php:89
+msgid "WooCommerce Group Attributes requires the WooCommerce and Redux Framework plugin. Please install or activate them!"
+msgstr "افزونه گروه‌بندی ویژگی‌های ووکامرس به افزونه‌های ووکامرس (WooCommerce) و فریم‌ورک ریداکس (Redux Framework) نیاز دارد. لطفا آنها را از مخزن وردپرس نصب و فعال کنید."
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Group Attributes"
+msgstr "گروه‌‌بندی ویژگی‌های ووکامرس"
+
+#. Plugin URI of the plugin/theme
+msgid "https://welaunch.io/plugins/woocommerce-group-attributes/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Want to group multiple attributes on your product page? Use this plugin!"
+msgstr "آیا می‌خواهید ویژگی‌های محصولات ووکامرس را گروه‌بندی کنید؟ از این افزونه استفاده کنید!"
+
+#. Author of the plugin/theme
+msgid "weLaunch"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://welaunch.io"
+msgstr ""
+
+#: admin/options-init.php:135
+msgid "Enable Frontend"
+msgstr "فعال سازی فرانت‌اند"
+
+#: admin/options-init.php:136
+msgid "Change attribute layout in frontend. Disable that to only use backend functionality."
+msgstr "تغییر ویژگی‌ها در فرانت‌اند. با غیر‌فعال کردن این گزینه افزونه تنها در بک‌اند اجرا خواهد شد."
+
+#: admin/options-init.php:207
+msgid "Enable Accordion"
+msgstr "فعال‌سازی آکاردئون"
+
+#: admin/options-init.php:208
+msgid "Attribute Groups will be hidden in accordions."
+msgstr "گروه‌های ویژگی در آکاردئون مخفی خواهند شد."

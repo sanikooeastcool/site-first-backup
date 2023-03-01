@@ -1,0 +1,81 @@
+/**
+ * WP Captcha general front-end styles
+ * @package  WP Captcha
+ * @version  1.0.0
+ * @author   Devnath verma <devnathverma@gmail.com>
+*/
+
+p.c4wp-display-captcha-form, p.c4wp-display-captcha-form label {
+    display: block;
+    margin-bottom: 10px;
+    text-align: right;
+    order:1;
+}
+.woocommerce-checkout p.c4wp-display-captcha-form {
+    margin-bottom: 20px;
+    display: inline-block;
+}
+#loginform p.c4wp-display-captcha-form input[type="text"].c4wp_user_input_captcha {
+width:100%
+}
+p.c4wp-display-captcha-form input[type="text"].c4wp_user_input_captcha {
+	display: inline-block;
+	font-size: 12px;
+	padding: 10px 5px 10px 5px;
+    width: 200px;
+    margin-bottom:0;
+}
+
+p.c4wp-display-captcha-form img.c4wp_image {
+	float:left;
+	margin-right: 20px;
+	border-radius: 15px;
+}
+
+
+#login {
+    width: 350px;
+}
+
+.c4wp-icon-captcha-container {
+	margin-top: 5px;
+    margin-bottom: 10px;
+    background: #fff;
+    padding: 5px 5px 10px 0px;
+    border-radius: 3px;
+}
+
+.c4wp-icon-captcha-container .c4wp-icon-name {
+	font-weight: 500;
+    padding:2px 5px 5px 8px;
+}
+
+.c4wp-icon-captcha-container .c4wp-svg-padding {
+    display: inline-block;
+}
+
+.c4wp-icon-captcha-container .c4wp-svg {
+    cursor: pointer;
+    padding: 5px 5px 2px 5px;
+    border-radius: 3px;
+    margin: 0px 5px 0px 5px;
+    border: 1px solid #FFF;
+}
+
+.c4wp-icon-captcha-container .c4wp-svg:hover {
+	background-color: #d2d4d6;
+    border: 1px solid #7e8993;
+}
+
+.c4wp-icon-captcha-container .c4wp-captcha-selected {
+    background-color: #d2d4d6;
+    border: 1px solid #7e8993;
+}
+a.refresh_captcha {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    margin-right: 15px;
+    margin-top: 15px;
+}

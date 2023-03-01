@@ -1,0 +1,16 @@
+.websima-map {
+    width: 100%;
+    height: 364px;
+}
+
+.websima-map .mapp-logo {
+    margin-bottom: -0.5rem;
+}
+.leaflet-fade-anim .leaflet-tile {
+    will-change: opacity !important;
+    filter: grayscale(1) !important;
+    -webkit-filter: grayscale(1) !important;
+}
+.mapp-container .mapp-footer {
+    display: none;
+}

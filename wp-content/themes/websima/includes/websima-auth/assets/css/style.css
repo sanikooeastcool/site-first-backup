@@ -1,0 +1,104 @@
+#account_login_form_wrapper , #account_register_form_wrapper , #account_profile_form_wrapper{
+    display: none;
+}
+#websima-auth-modal .form-row {
+    margin: 0 0 8px 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -5px;
+    margin-left: -5px;
+}
+#websima-auth-modal .form-row.buttons-wrapper{
+    justify-content:center;
+}
+.form-row>.col, .form-row>[class*=col-] {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+#websima-auth-modal form .form-description,
+#websima-auth-modal form .form-text,
+#websima-auth-modal form label:not(.error) {
+    display: block;
+    text-align: right;
+    margin: 0 0 5px 0;
+    color: #000;
+}
+#websima-auth-modal form input {
+    background: #fff;
+    padding:10px 20px;
+    border-radius: 3px;
+    height: 50px;
+    display: block;
+    box-sizing: border-box;
+    font-family: inherit;
+    width: 100%;
+    transition: 0.3s;
+    font-size: 14px;
+    margin-bottom:10px;
+    border: 1px solid #CECECE;
+}
+#websima-auth-modal form input:focus {
+    border: 1px solid var(--color2);
+}
+#websima-auth-modal form button {
+    min-width: 100px;
+    color: #fff;
+    padding: 5px 25px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    order: 1;
+}
+
+#websima-auth-modal form label.error {
+    color: var(--danger);
+    font-size: 12px;
+    position: absolute;
+    right: 0;
+    bottom: -15px;
+}
+#websima-auth-modal .resend_code_wrapper span.resend-code:not(.disable) {
+    cursor: pointer;
+}
+#websima-auth-modal .resend_code_wrapper {
+    text-align: right;
+    color: var(--danger);
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 52px;
+    right: 41px;
+    font-size: 13px;
+}
+#websima-auth-modal .back_to_phone {
+    float: left;
+    width: auto;
+    order: 1;
+    display: flex;
+    align-items: end;
+    cursor:pointer;
+}
+#websima-auth-modal .alert {
+    text-align: center;
+    font-size: 13px;
+    color: #fff;
+    border-radius: 0;
+    margin: -2px 0;
+    position: relative;
+    border-radius:0 0 3px 3px;
+}
+#websima-auth-modal .alert.bg-success {
+    background-color: var(--success)!important;
+}
+#websima-auth-modal .alert.bg-danger {
+    background-color: var(--success)!important;
+}#websima-auth-modal .alert.bg-primary {
+    background-color: #007bff!important;
+}
+#websima-auth-modal .modal-dialog{
+    background-color: #fff;
+    border-radius: 3px;
+}  

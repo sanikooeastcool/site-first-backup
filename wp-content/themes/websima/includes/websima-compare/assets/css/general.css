@@ -1,0 +1,68 @@
+.compare-btn{
+    display: inline-flex;
+    align-items: center;
+    padding: 5px;
+    background: transparent;
+    border-radius: 3px 0 3px 0;
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+    z-index: 11;
+}
+.compare-btn i {
+    color: var(--color2);
+    font-size: 16px;
+    transition: 0.3s ease;
+}
+.compare-btn.added{
+    background: var(--color2);
+}
+.compare-btn.added i{
+    color: #fff;
+}
+.dark .compare-btn.added i{
+    color: #191919;
+}
+.compare-link{
+    display: inline-flex;
+    align-items: center;
+}
+.compare-link .icon{
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin: 0 5px 0 0;
+    background-image: url('../images/compare.svg');
+}
+.compare-link .count{
+    margin: 0 5px 0 0;
+    color: var(--color2);
+    font-family: var(--bold_font);
+    font-size: 18px;
+    line-height: 1;
+    margin-top: 4px;
+}
+.compare-back-btn a {
+    background: var(--color2) !important;
+    border-radius: 3px !important;
+    padding: 7px 20px !important;
+}
+.compare-back-btn a:hover {
+    border: 1px solid var(--color2) !important;
+    color: var(--color2) !important;
+    background-color: #0000 !important;
+}
+.compare-back-top .icon-wrapper {
+    background: var(--color2) !important;
+}
+.share-title {
+    color: var(--color2);
+    font-size: 18px !important;
+}
+@media screen and (min-width: 786px){
+    .compare-btn {
+        padding: 7px 6px;
+    }
+    .compare-btn i {
+        font-size: 19px;
+    }
+}

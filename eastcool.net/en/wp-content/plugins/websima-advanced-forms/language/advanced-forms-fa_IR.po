@@ -1,0 +1,659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-11 15:18+0000\n"
+"PO-Revision-Date: 2021-09-25 11:03+0330\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Language: fa_IR\n"
+
+#: advanced-forms.php:216
+msgctxt "Post Type General Name"
+msgid "Forms"
+msgstr "فرم ها"
+
+#: advanced-forms.php:217
+msgctxt "Post Type Singular Name"
+msgid "Form"
+msgstr ""
+
+#: advanced-forms.php:218 advanced-forms.php:222
+msgid "Forms"
+msgstr "فرم ها"
+
+#: advanced-forms.php:219 advanced-forms.php:243 advanced-forms.php:244
+#: admin/admin-entries.php:119 admin/admin-entries.php:310
+msgid "Form"
+msgstr "فرم"
+
+#: advanced-forms.php:220
+msgid "Form Archives"
+msgstr ""
+
+#: advanced-forms.php:221
+msgid "Parent Form:"
+msgstr ""
+
+#: advanced-forms.php:223
+msgid "Add New Form"
+msgstr "افزودن فرم جدید"
+
+#: advanced-forms.php:224 advanced-forms.php:272
+msgid "Add New"
+msgstr "افزودن"
+
+#: advanced-forms.php:225
+msgid "New Form"
+msgstr "فرم جدید"
+
+#: advanced-forms.php:226
+msgid "Edit Form"
+msgstr "ویرایش فرم"
+
+#: advanced-forms.php:227
+msgid "Update Form"
+msgstr "بروزرسانی فرم"
+
+#: advanced-forms.php:228
+msgid "View Form"
+msgstr "مشاهده فرم"
+
+#: advanced-forms.php:229
+msgid "Search Form"
+msgstr "جستجو فرم"
+
+#: advanced-forms.php:230 advanced-forms.php:278
+msgid "Not found"
+msgstr "یافت نشد"
+
+#: advanced-forms.php:231 advanced-forms.php:279
+msgid "Not found in Trash"
+msgstr ""
+
+#: advanced-forms.php:232 advanced-forms.php:280
+msgid "Featured Image"
+msgstr ""
+
+#: advanced-forms.php:233 advanced-forms.php:281
+msgid "Set featured image"
+msgstr ""
+
+#: advanced-forms.php:234 advanced-forms.php:282
+msgid "Remove featured image"
+msgstr ""
+
+#: advanced-forms.php:235 advanced-forms.php:283
+msgid "Use as featured image"
+msgstr ""
+
+#: advanced-forms.php:236
+msgid "Insert into form"
+msgstr ""
+
+#: advanced-forms.php:237
+msgid "Uploaded to this form"
+msgstr ""
+
+#: advanced-forms.php:238
+msgid "Forms list"
+msgstr "لیست فرم ها"
+
+#: advanced-forms.php:239
+msgid "Forms list navigation"
+msgstr ""
+
+#: advanced-forms.php:240
+msgid "Filter forms list"
+msgstr ""
+
+#: advanced-forms.php:264
+msgctxt "Post Type General Name"
+msgid "Entries"
+msgstr ""
+
+#: advanced-forms.php:265
+msgctxt "Post Type Singular Name"
+msgid "Entry"
+msgstr ""
+
+#: advanced-forms.php:266 advanced-forms.php:270 admin/admin-forms.php:192
+#: admin/admin-entries.php:240
+msgid "Entries"
+msgstr "صندوق پیام"
+
+#: advanced-forms.php:267 advanced-forms.php:291 advanced-forms.php:292
+msgid "Entry"
+msgstr ""
+
+#: advanced-forms.php:268
+msgid "Entry Archives"
+msgstr ""
+
+#: advanced-forms.php:269
+msgid "Parent Entry:"
+msgstr "پیام والد:"
+
+#: advanced-forms.php:271
+msgid "Add New Entry"
+msgstr "افزودن پیام جدید"
+
+#: advanced-forms.php:273
+msgid "New Entry"
+msgstr "پیام جدید"
+
+#: advanced-forms.php:274
+msgid "Edit Entry"
+msgstr "ویرایش پیام"
+
+#: advanced-forms.php:275
+msgid "Update Entry"
+msgstr "بروزرسانی پیام"
+
+#: advanced-forms.php:276
+msgid "View Entry"
+msgstr "مشاهده پیام"
+
+#: advanced-forms.php:277
+msgid "Search Entry"
+msgstr "جستجو پیام"
+
+#: advanced-forms.php:284
+msgid "Insert into entry"
+msgstr ""
+
+#: advanced-forms.php:285
+msgid "Uploaded to this entry"
+msgstr ""
+
+#: advanced-forms.php:286
+msgid "Entries list"
+msgstr "لیست پیام ها"
+
+#: advanced-forms.php:287
+msgid "Entries list navigation"
+msgstr ""
+
+#: advanced-forms.php:288
+msgid "Filter entries list"
+msgstr ""
+
+#: core/core-entries.php:122 admin/admin-entries.php:97
+msgid "Entry ID"
+msgstr "شناسه پیام"
+
+#: admin/admin-forms.php:65
+msgid "Form key:"
+msgstr "کلید فرم:"
+
+#: admin/admin-forms.php:100 admin/admin-forms.php:191
+msgid "Fields"
+msgstr "فیلدها"
+
+#: admin/admin-forms.php:123
+msgid "Add fields by setting the location of your fields group to this form."
+msgstr ""
+
+#: admin/admin-forms.php:128
+msgid "Label"
+msgstr "برچسب"
+
+#: admin/admin-forms.php:129 admin/admin-emails.php:121
+msgid "Name"
+msgstr "نام"
+
+#: admin/admin-forms.php:130
+msgid "Type"
+msgstr "نوع"
+
+#: admin/admin-forms.php:166
+msgid "No field groups connected to this form"
+msgstr "هیچ گروه فیلدی به این فرم متصل نشده است"
+
+#: admin/admin-forms.php:175
+msgid "Create field group"
+msgstr "ساخت گروه فیلد جدید"
+
+#: admin/admin-forms.php:190
+msgid "Key"
+msgstr "کلید"
+
+#: admin/admin-forms.php:294
+msgid "Resources"
+msgstr ""
+
+#: admin/admin-forms.php:296
+msgid "Guides"
+msgstr ""
+
+#: admin/admin-forms.php:297
+msgid "Actions"
+msgstr ""
+
+#: admin/admin-forms.php:298
+msgid "Filters"
+msgstr ""
+
+#: admin/admin-forms.php:302
+msgid "Pro"
+msgstr "حرفه ای"
+
+#: admin/admin-forms.php:304
+msgid "Create/edit posts and users"
+msgstr ""
+
+#: admin/admin-forms.php:305
+msgid "Integrate with Slack, Mailchimp, and Zapier"
+msgstr ""
+
+#: admin/admin-forms.php:306
+msgid "Get direct, priority support"
+msgstr ""
+
+#: admin/admin-forms.php:308
+msgid "Available from hookturn.io"
+msgstr ""
+
+#: admin/admin-forms.php:311
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: admin/admin-forms.php:313
+msgid "Issues, questions, or suggestions?"
+msgstr ""
+
+#: admin/admin-forms.php:315
+msgid "Contact us directly"
+msgstr ""
+
+#: admin/admin-forms.php:315
+msgid "for priority support"
+msgstr ""
+
+#: admin/admin-forms.php:317
+msgid "Create a ticket on the"
+msgstr ""
+
+#: admin/admin-forms.php:317
+msgid "Wordpress support forums"
+msgstr ""
+
+#: admin/admin-forms.php:375
+msgid "Form settings"
+msgstr "تنظیمات فرم"
+
+#: admin/admin-forms.php:379
+msgid "Display"
+msgstr "نمایش"
+
+#: admin/admin-forms.php:395
+msgid "Shortcode"
+msgstr "کد کوتاه"
+
+#: admin/admin-forms.php:401
+msgid "Description"
+msgstr "توضیحات"
+
+#: admin/admin-forms.php:419
+msgid "Success message"
+msgstr "پیام موفقیت آمیز"
+
+#: admin/admin-forms.php:422
+msgid "The message displayed after a successful submission."
+msgstr "این پیام پس از ارسال موفقیت آمیز نمایش داده می شود."
+
+#: admin/admin-forms.php:437
+msgid "Statistics"
+msgstr "آمار"
+
+#: admin/admin-forms.php:453
+msgid "Number of submissions"
+msgstr "تعداد ارسال ها"
+
+#: admin/admin-forms.php:475
+msgid "Number of times viewed"
+msgstr "تعداد نمایش"
+
+#: admin/admin-emails.php:85
+msgid "Notifications"
+msgstr "اعلان ها"
+
+#: admin/admin-emails.php:102
+msgid "Emails"
+msgstr "ایمیل ها"
+
+#: admin/admin-emails.php:105
+msgid "The emails defined here will be sent upon successful submission."
+msgstr ""
+
+#: admin/admin-emails.php:117
+msgid "Add new email"
+msgstr "افزودن ایمیل جدید"
+
+#: admin/admin-emails.php:140
+msgid "Active?"
+msgstr "آرشیو؟"
+
+#: admin/admin-emails.php:156
+msgid "Send to"
+msgstr "ارسال به"
+
+#: admin/admin-emails.php:168
+msgid "Select from field"
+msgstr ""
+
+#: admin/admin-emails.php:169 admin/admin-emails.php:212
+msgid "Custom recipient"
+msgstr ""
+
+#: admin/admin-emails.php:180
+msgid "Recipient field"
+msgstr ""
+
+#: admin/admin-emails.php:239
+msgid "From"
+msgstr "از"
+
+#: admin/admin-emails.php:258
+msgid "Subject"
+msgstr "موضوع"
+
+#: admin/admin-emails.php:277
+msgid "Content"
+msgstr ""
+
+#: admin/admin-entries.php:60 admin/forms/forms-import.php:81
+msgid "Edit form"
+msgstr "ویرایش فرم"
+
+#: admin/admin-entries.php:99
+msgid "Date"
+msgstr "تاریخ"
+
+#: admin/admin-entries.php:101
+msgid "Time"
+msgstr "ساعت"
+
+#: admin/admin-entries.php:169
+msgid "All forms"
+msgstr "همه فرم ها"
+
+#: admin/admin-entries.php:221
+msgid "View entries for this form"
+msgstr ""
+
+#: admin/admin-entries.php:258
+msgid "Create entries?"
+msgstr ""
+
+#: admin/admin-entries.php:261
+msgid ""
+"When entries are enabled they will be automatically generated with form "
+"submissions, with all the submitted field data."
+msgstr ""
+
+#: admin/admin-entries.php:292
+msgid "Entry data"
+msgstr "اطلاعات تکمیلی پیام"
+
+#: admin/admin-entries.php:296
+msgid "Submission info"
+msgstr "اطلاعات ارسال شده"
+
+#: admin/admin-restrictions.php:22
+msgid "Restrictions"
+msgstr ""
+
+#: admin/admin-restrictions.php:40
+msgid "Restrict number of entries"
+msgstr ""
+
+#: admin/admin-restrictions.php:57
+msgid "Maximum number of entries"
+msgstr ""
+
+#: admin/admin-restrictions.php:83
+msgid "Message after entry limit has been reached"
+msgstr ""
+
+#: admin/admin-restrictions.php:109
+msgid "Require user to be logged in"
+msgstr ""
+
+#: admin/admin-restrictions.php:126
+msgid "Message if user is not logged in"
+msgstr ""
+
+#: admin/admin-restrictions.php:152
+msgid "Only display form during a specific time"
+msgstr "نمایش فرم در بازه زمانی مشخص"
+
+#: admin/admin-restrictions.php:169
+msgid "Start time"
+msgstr "تاریخ شروع"
+
+#: admin/admin-restrictions.php:195
+msgid "End time"
+msgstr "تاریخ پایان"
+
+#: admin/admin-restrictions.php:221
+msgid "Message before scheduled time"
+msgstr "پیام قبل از زمان برنامه ریزی شده"
+
+#: admin/admin-restrictions.php:246
+msgid "Message after scheduled time"
+msgstr "پیام بعد از زمان برنامه ریزی شده"
+
+#: api/api-helpers.php:94
+msgid "Yes"
+msgstr "بله"
+
+#: api/api-helpers.php:95
+msgid "No"
+msgstr "خیر"
+
+#: api/api-helpers.php:198
+msgid "Insert field"
+msgstr "افزودن فیلد"
+
+#: api/api-helpers.php:212
+msgid "All fields"
+msgstr "همه فیلدها"
+
+#: core/forms/forms-rendering.php:103
+msgid "Submit"
+msgstr "ارسال"
+
+#: acf/fields/page.php:15
+msgid "Page"
+msgstr "برگه"
+
+#: acf/fields/page.php:48 acf/fields/page.php:101
+msgid "Previous"
+msgstr "قبلی"
+
+#: acf/fields/page.php:54 acf/fields/page.php:110
+msgid "Next"
+msgstr "بعدی"
+
+#: acf/fields/page.php:88
+msgid "Show numbering"
+msgstr ""
+
+#: acf/fields/page.php:97
+msgid "Previous text"
+msgstr ""
+
+#: acf/fields/page.php:98
+msgid "Text for the \"Previous\" button"
+msgstr ""
+
+#: acf/fields/page.php:106
+msgid "Next text"
+msgstr ""
+
+#: acf/fields/page.php:107
+msgid "Text for the \"Next\" button"
+msgstr ""
+
+#: admin/forms/forms-export.php:51
+msgid "Exporting"
+msgstr ""
+
+#: admin/forms/forms-export.php:52 admin/forms/forms-preview.php:51
+msgid "Back to form"
+msgstr "بازگشت به فرم"
+
+#: admin/forms/forms-export.php:58
+msgid "Export JSON"
+msgstr ""
+
+#: admin/forms/forms-export.php:60
+msgid ""
+"Export your form as a JSON file. The form can then be imported on any site "
+"at Forms &rarr; Import."
+msgstr ""
+
+#: admin/forms/forms-export.php:63
+msgid "Export file"
+msgstr ""
+
+#: admin/forms/forms-export.php:68
+msgid "Register programmatically"
+msgstr ""
+
+#: admin/forms/forms-export.php:70
+msgid ""
+"Place the following code in your theme or plugin to register your form "
+"programmatically."
+msgstr ""
+
+#: admin/forms/forms-export.php:85
+msgid "Export"
+msgstr "برون ریزی"
+
+#: admin/forms/forms-export.php:101
+msgid "Export form"
+msgstr "برون ریزی فرم"
+
+#: admin/forms/forms-import.php:18
+msgid "Import"
+msgstr "درون ریزی"
+
+#: admin/forms/forms-import.php:31 admin/forms/forms-import.php:100
+msgid "Import form"
+msgstr "درون ریزی فرم"
+
+#: admin/forms/forms-import.php:40
+msgid ""
+"Select the form JSON file you would like to import. If a form with the same "
+"key already exists it will be overwritten."
+msgstr ""
+
+#: admin/forms/forms-import.php:46
+msgid "Select File"
+msgstr "انتخاب فایل"
+
+#: admin/forms/forms-import.php:55
+msgid "Import File"
+msgstr "درون ریزی فایل"
+
+#: admin/forms/forms-import.php:71
+msgid "No files selected"
+msgstr "فایلی انتخاب نشده است"
+
+#: admin/forms/forms-import.php:80
+#, php-format
+msgid "Form with key %s imported."
+msgstr ""
+
+#: admin/forms/forms-import.php:84
+msgid "Failed to import form"
+msgstr "درون ریزی فرم با شکست مواجه شد"
+
+#: admin/forms/forms-preview.php:50
+msgid "Previewing"
+msgstr "پیش نمایش"
+
+#: admin/forms/forms-preview.php:56
+msgid "Form successfully submitted"
+msgstr "فرم با موفقیت ارسال شد"
+
+#: admin/forms/forms-preview.php:56
+msgid "Test again"
+msgstr "بررسی مجدد"
+
+#: admin/forms/forms-preview.php:86
+msgid "Preview form"
+msgstr "مشاهده فرم"
+
+#: admin/forms/forms-preview.php:116
+msgid "Preview"
+msgstr "مشاهده"
+
+#. Name of the plugin
+msgid "Advanced Forms"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Flexible and developer-friendly forms with the power of Advanced Custom "
+"Fields."
+msgstr ""
+
+#. Author of the plugin
+msgid "Fabian Lindfors"
+msgstr ""
+
+msgid "Description (for manager)"
+msgstr "توضیحات (برای مدیر)"
+
+msgid "Redirect url"
+msgstr "لینک بازگشت"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "SMS"
+msgstr "پیامک"
+
+msgid "Full name"
+msgstr "نام و نام خانوادگی"
+
+msgid "Mobile number"
+msgstr "شماره موبایل"
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "Print"
+msgstr "چاپ"
+
+msgid "Download"
+msgstr "دانلود"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Mobile"
+msgstr "موبایل"
+
+msgid "Phone"
+msgstr "تلفن"
+
+msgid "National code"
+msgstr "کد ملی"
+
+msgid "Submit button label"
+msgstr "متن دکمه ارسال"
+
+msgid "Ajax submission"
+msgstr "فعالسازی حالت ایجکسی (ارسال پویا فرم)"
+
+msgid "Persian datepicker"
+msgstr "تقویم جلالی"

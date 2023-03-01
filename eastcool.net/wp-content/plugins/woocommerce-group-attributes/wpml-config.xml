@@ -1,0 +1,27 @@
+<wpml-config>
+	<admin-texts>
+		<key name="woocommerce_group_attributes">
+			<key name="enable" />
+			<key name="moreText" />
+			<key name="multipleAttributesInGroups" />
+			<key name="layout" />
+			<key name="attributeValueDivider" />
+			<key name="oddBackgroundColor" />
+			<key name="oddTextColor" />
+			<key name="evenBackgroundColor" />
+			<key name="evenTextColor" />
+			<key name="customCSS" />
+			<key name="customJS" />
+		</key> 
+	</admin-texts>
+</wpml-config>
+
+
+
+
+
+
+
+
+
+

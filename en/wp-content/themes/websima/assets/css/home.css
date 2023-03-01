@@ -1,0 +1,96 @@
+/* hero style */
+.section-hero.video {
+    max-height: 500px;
+    overflow: hidden;
+}
+.hero-text-box {
+    position: absolute;
+    z-index: 1;
+    right: 50%;
+    bottom: 50%;
+    transform: translate(50%, 50%);
+    text-align: center;
+    color: white;
+}
+.section-hero img{
+	width:100%;
+	object-fit:cover;
+}
+.section-hero{
+	position:relative;
+}
+/* Brands style */
+.brands-carousel .owl-stage{
+	display:table;
+	margin:0 auto;
+}
+/* banner style */
+.item-banner img {
+    width: 100%;
+    object-fit: cover;
+}
+
+/* Counter style */
+.bg-counter{
+	background:#d6d6d6;
+}
+.counter-item {
+    text-align: center;
+    font-size: 16px;
+}
+.counter-num {
+    font-family: var(--bold_font);
+    font-size: 20px;
+}
+/* Teams style */
+
+.team-item {
+    margin: 10px 0;
+    border: 1px solid #a8a8a8;
+    text-align: center;
+    min-height: 295px;
+}
+.teams-social {
+    display: table;
+    margin: auto;
+    background: #dcdcdc;
+    line-height: 1;
+    margin-top: 5px;
+}
+.team-content > a {
+    display: block;
+    line-height: 1;
+    padding: 5px;
+}
+.teams-social a {
+    display: inline-block;
+    padding: 7px 5px;
+    line-height: 1;
+    margin: 0 3px;
+}
+
+/* testimonial style */
+.owl-testimonials .item-testimonial {
+    border: 1px solid #e3e3e3;
+    padding: 20px;
+    min-height: 210px;
+}
+.owl-testimonials.owl-carousel .owl-nav button.owl-prev,
+.owl-testimonials.owl-carousel .owl-nav button.owl-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+	font-size: 20px;
+    line-height: 1;
+}
+.owl-testimonials .owl-nav button.owl-prev {
+    right: -20px;
+}
+.owl-testimonials .owl-nav button.owl-next {
+    left: -20px;
+}
+
+.owl-testimonials.owl-carousel .owl-nav button.disabled{
+	opacity:0.5;
+}
+

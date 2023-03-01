@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(0.500379, 0.315710)" fill-rule="nonzero">
+            <polygon id="Path" fill="#03326D" points="29.6523281 0 21.0134609 8.63007262 29.6523281 29.4188452 38.2911953 8.63007262"></polygon>
+            <polygon id="Path" fill="#7DCBDB" points="29.4188452 29.885811 38.1439435 8.87235014 50.432306 8.87235014 50.432306 21.1727867"></polygon>
+            <polygon id="Path" fill="#7DCBDB" points="21.1564283 8.87235014 8.87235014 8.87235014 8.87235014 21.1727867 29.885811 29.885811"></polygon>
+            <polygon id="Path" fill="#03326D" points="29.6523281 59.3046562 21.0134609 50.5287464 29.6523281 29.4188452 38.2911953 50.5287464"></polygon>
+            <polygon id="Path" fill="#26B8CE" points="29.4188452 29.4188452 38.1439435 50.432306 50.432306 50.432306 50.432306 38.1236843"></polygon>
+            <polygon id="Path" fill="#26B8CE" points="21.1564283 50.432306 8.87235014 50.432306 8.87235014 38.1236843 29.885811 29.4188452"></polygon>
+            <polygon id="Path" fill="#03326D" points="29.4188452 29.6574489 50.5510124 21.0134609 59.3046562 29.6574489 50.5510124 38.2911953"></polygon>
+            <polygon id="Path" fill="#03326D" points="29.885811 29.6574489 8.75516296 38.2911953 0 29.6574489 8.75516296 21.0134609"></polygon>
+            <polygon id="Path" fill="#26427B" points="29.885811 29.885811 0 29.885811 8.75516296 21.0134609"></polygon>
+            <polygon id="Path" fill="#26427B" points="29.4188452 29.4188452 29.4188452 0 38.2911953 8.63007262"></polygon>
+            <polygon id="Path" fill="#26427B" points="29.4188452 29.4188452 59.3046562 29.4188452 50.5510124 38.2911953"></polygon>
+            <polygon id="Path" fill="#26427B" points="29.885811 29.4188452 29.885811 59.3046562 21.0134609 50.5287464"></polygon>
+            <polygon id="Path" fill="#7DCBDB" points="29.4188452 29.4188452 50.432306 50.432306 38.1439435 50.432306"></polygon>
+            <polygon id="Path" fill="#7DCBDB" points="29.885811 29.4188452 8.87750808 50.432306 8.87235014 38.1236843"></polygon>
+            <polygon id="Path" fill="#26B8CE" points="8.87750808 8.87235014 29.885811 29.885811 8.87235014 21.1727867"></polygon>
+            <polygon id="Path" fill="#26B8CE" points="29.4188452 29.885811 38.1439435 8.87235014 50.432306 8.87235014"></polygon>
+        </g>
+    </g>
+</svg>
