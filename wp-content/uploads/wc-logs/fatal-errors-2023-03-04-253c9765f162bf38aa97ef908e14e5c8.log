@@ -1,0 +1,76 @@
+2023-03-04T06:59:09+00:00 CRITICAL Uncaught RuntimeException: خطا در ذخیره سازی عملیات: خطا در ذخیره سازی عملیات: Duplicate entry '0' for key 'PRIMARY' in C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(36): ActionScheduler_ActionFactory->single('action_schedule...', Array, 1677913209, 'action-schedule...')
+#4 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\Scheduler.php(89): as_schedule_single_action(1677913209, 'action_schedule...', Array, 'action-schedule...')
+#5 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\Controller.php(119): Action_Scheduler\Migration\Scheduler->schedule_migration()
+#6 C:\xampp\htdocs\public_html\wp-includes\class-wp-hook.php(307): Action_Scheduler\Migration\Controller->schedule_migration('')
+#7 C:\xampp\htdocs\public_html\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\public_html\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\public_html\wp-settings.php(620): do_action('wp_loaded')
+#10 C:\xampp\htdocs\public_html\wp-config.php(100): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\public_html\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\public_html\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\public_html\index.php(17): require('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown در C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php در خط 44
+
+2023-03-04T06:59:29+00:00 CRITICAL Uncaught RuntimeException: خطا در ذخیره سازی عملیات: خطا در ذخیره سازی عملیات: Duplicate entry '0' for key 'PRIMARY' in C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(36): ActionScheduler_ActionFactory->single('action_schedule...', Array, 1677913229, 'action-schedule...')
+#4 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\Scheduler.php(89): as_schedule_single_action(1677913229, 'action_schedule...', Array, 'action-schedule...')
+#5 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\Controller.php(119): Action_Scheduler\Migration\Scheduler->schedule_migration()
+#6 C:\xampp\htdocs\public_html\wp-includes\class-wp-hook.php(307): Action_Scheduler\Migration\Controller->schedule_migration('')
+#7 C:\xampp\htdocs\public_html\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\public_html\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\public_html\wp-settings.php(620): do_action('wp_loaded')
+#10 C:\xampp\htdocs\public_html\wp-config.php(100): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\public_html\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\public_html\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\public_html\index.php(17): require('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown در C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php در خط 44
+
+2023-03-04T07:00:03+00:00 CRITICAL Uncaught RuntimeException: خطا در ذخیره سازی عملیات: خطا در ذخیره سازی عملیات: Duplicate entry '0' for key 'PRIMARY' in C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(36): ActionScheduler_ActionFactory->single('action_schedule...', Array, 1677913263, 'action-schedule...')
+#4 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\Scheduler.php(89): as_schedule_single_action(1677913263, 'action_schedule...', Array, 'action-schedule...')
+#5 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\Controller.php(119): Action_Scheduler\Migration\Scheduler->schedule_migration()
+#6 C:\xampp\htdocs\public_html\wp-includes\class-wp-hook.php(307): Action_Scheduler\Migration\Controller->schedule_migration('')
+#7 C:\xampp\htdocs\public_html\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\public_html\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\public_html\wp-settings.php(620): do_action('wp_loaded')
+#10 C:\xampp\htdocs\public_html\wp-config.php(100): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\public_html\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\public_html\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\public_html\index.php(17): require('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown در C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php در خط 44
+
+2023-03-04T07:58:38+00:00 CRITICAL Uncaught RuntimeException: خطا در ذخیره سازی عملیات: خطا در ذخیره سازی عملیات: Duplicate entry '0' for key 'PRIMARY' in C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(36): ActionScheduler_ActionFactory->single('action_schedule...', Array, 1677916778, 'action-schedule...')
+#4 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\Scheduler.php(89): as_schedule_single_action(1677916778, 'action_schedule...', Array, 'action-schedule...')
+#5 C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\Controller.php(119): Action_Scheduler\Migration\Scheduler->schedule_migration()
+#6 C:\xampp\htdocs\public_html\wp-includes\class-wp-hook.php(307): Action_Scheduler\Migration\Controller->schedule_migration('')
+#7 C:\xampp\htdocs\public_html\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\public_html\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\public_html\wp-settings.php(620): do_action('wp_loaded')
+#10 C:\xampp\htdocs\public_html\wp-config.php(100): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\public_html\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\public_html\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\public_html\index.php(17): require('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown در C:\xampp\htdocs\public_html\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php در خط 44
+
